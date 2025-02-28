@@ -1,0 +1,11 @@
+{
+    "host": "127.0.0.1",
+    "user_name": "alice",
+    "password": "alice",
+    "db_name": "test_db",
+    "port": 3306,
+    "min_size": 10,
+    "max_size": 20,
+    "timeout_ms": 3000,
+    "max_idle_time_ms": 5000
+}
